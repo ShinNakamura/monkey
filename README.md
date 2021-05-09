@@ -8,8 +8,9 @@ https://www.amazon.co.jp/gp/product/4873118220/
 
 Writing An Interpreter In Go ペーパーバック – 2018/8/7
 英語版  Thorsten Ball  (著)
+https://www.amazon.co.jp/gp/product/3982016118/
 
-<a href="https://www.amazon.co.jp/gp/product/3982016118?ie=UTF8&psc=1&linkCode=li2&tag=shinnakamura-22&linkId=be8a4c01bff58bdf14021b6911833216&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=3982016118&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=shinnakamura-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=shinnakamura-22&language=ja_JP&l=li2&o=9&a=3982016118" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+![Writing An Interpreter In Go](https://images-na.ssl-images-amazon.com/images/I/31C139bzhML._SX348_BO1,204,203,200_.jpg)
 
 ## Go日記
 
